@@ -1,0 +1,9 @@
+[package]
+name = "jofogarrs"
+version = "0.1.0"
+authors = ["János Illés <ijanos@gmail.com>"]
+
+[dependencies]
+select = "0.4.2"
+reqwest = "0.8.5"
+rss = "1.4.0"
